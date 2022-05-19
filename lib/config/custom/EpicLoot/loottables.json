@@ -495,7 +495,6 @@
           ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 4 },
-            { "Item": "Tier0Everything", "Weight": 5 },
             { "Item": "Tier1Mats", "Weight": 1 }
           ]
         },
@@ -507,7 +506,6 @@
           ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 2 },
-            { "Item": "Tier0Everything", "Weight": 6 },
             { "Item": "Tier1Mats", "Weight": 2 }
           ]
         },
@@ -521,7 +519,6 @@
           ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier0Everything", "Weight": 3 },
             { "Item": "Tier1Mats", "Weight": 3 }
           ]
         },
@@ -534,7 +531,6 @@
             [3, 5]
           ],
           "Loot": [
-            { "Item": "Tier0Everything", "Weight": 1 },
             { "Item": "Tier1Mats", "Weight": 1 }
           ]
         }
@@ -1806,8 +1802,7 @@
           "Loot": [
             { "Item": "Tier1Everything",   "Weight": 1, "Rarity": [ 77, 20, 2, 1 ] },
             { "Item": "Tier0Shields",      "Weight": 1, "Rarity": [ 77, 20, 2, 1 ] },
-            { "Item": "SledgeStagbreaker", "Weight": 1, "Rarity": [ 77, 20, 2, 1 ] },
-            { "Item": "DeerFistsHTD",      "Weight": 1, "Rarity": [ 77, 20, 2, 1 ] }
+            { "Item": "SledgeStagbreaker", "Weight": 1, "Rarity": [ 77, 20, 2, 1 ] }
           ]
         },
         {
@@ -1901,9 +1896,7 @@
           "Level": 1,
           "Drops": [ [1, 0], [2, 60], [3, 35], [4, 5] ],
           "Loot": [
-            { "Item": "Tier3Everything", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
-            { "Item": "BoneGreatMaceHTD", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] },
-            { "Item": "BoneGreatSwordHTD", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] }
+            { "Item": "Tier3Everything", "Weight": 1, "Rarity": [ 20, 60, 15, 5 ] }
           ]
         },
         {
@@ -1950,9 +1943,7 @@
           "Level": 1,
           "Drops": [ [2, 20], [3, 40], [4, 30], [5, 10] ],
           "Loot": [
-            { "Item": "Tier4Everything", "Weight": 1, "Rarity": [ 0, 40, 50, 10 ] },
-            { "Item": "ObsidianGreatSwordHTD", "Weight": 1, "Rarity": [0, 40, 50, 10] },
-            { "Item": "ObsidianGreatSwordRedHTD", "Weight": 1, "Rarity": [0, 40, 50, 10] }
+            { "Item": "Tier4Everything", "Weight": 1, "Rarity": [ 0, 40, 50, 10 ] }
           ]
         },
         {
@@ -2051,7 +2042,7 @@
       "Object": "TreasureChest_blackforest",
       "Drops": [ [0, 25], [1, 60], [2, 15] ],
       "Loot": [
-        { "Item": "Tier0Shields",    "Weight": 1, "Rarity": [ 95, 4, 1, 0] },
+        { "Item": "Tier0Everything", "Weight": 1, "Rarity": [ 95, 4, 1, 0] },
         { "Item": "Tier1Everything", "Weight": 2, "Rarity": [ 95, 4, 1, 0] }
       ]
     },
