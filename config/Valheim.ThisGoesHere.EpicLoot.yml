@@ -1,0 +1,8 @@
+PrintComment: Epic Loot updated.
+CopyFile:
+- From: config/custom/EpicLoot/loottables.json
+  To: plugins/RandyKnapp-EpicLoot/loottables.json
+- From: config/custom/EpicLoot/magiceffects.json
+  To: plugins/RandyKnapp-EpicLoot/magiceffects.json
+- From: config/custom/EpicLoot/iteminfo.json
+  To: plugins/RandyKnapp-EpicLoot/iteminfo.json

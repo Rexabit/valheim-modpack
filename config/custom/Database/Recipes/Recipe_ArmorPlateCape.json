@@ -1,0 +1,14 @@
+{
+    "name": "ArmorPlateCape",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrophyBoar:3:1:True",
+        "Iron:2:1:True",
+        "LeatherScraps:10:5:True"
+    ]
+}

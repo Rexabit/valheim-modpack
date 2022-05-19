@@ -1,0 +1,14 @@
+{
+    "name": "ArmorWandererCape",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flax:15:5:True",
+        "Iron:10:3:True",
+        "LinenThread:10:3:True"
+    ]
+}

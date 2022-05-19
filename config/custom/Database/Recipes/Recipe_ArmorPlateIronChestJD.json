@@ -1,0 +1,13 @@
+{
+    "name": "ArmorPlateIronChestJD",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:25:8:True",
+        "DeerHide:5:1:True"
+    ]
+}

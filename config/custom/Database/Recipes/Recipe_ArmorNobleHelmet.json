@@ -1,0 +1,13 @@
+{
+    "name": "ArmorNobleHelmet",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LeatherScraps:5:1:True",
+        "DeerHide:2:1:True"
+    ]
+}

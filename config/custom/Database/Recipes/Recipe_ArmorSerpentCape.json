@@ -1,0 +1,13 @@
+{
+    "name": "ArmorSerpentCape",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Silver:5:1:True",
+        "LinenThread:20:5:True"
+    ]
+}

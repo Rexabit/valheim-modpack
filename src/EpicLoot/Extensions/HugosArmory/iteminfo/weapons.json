@@ -1,0 +1,95 @@
+{
+    "ItemInfo": [
+      {
+        "Type": "TwoHandSwords",
+        "Fallback": "AxeIron",
+        "Items": [
+          "BronzeGreatSwordHTD",
+          "IronGreatSwordHTD",
+          "IronHeavyGreatSwordHTD",
+          "SilverGreatSwordHTD",
+          "DragonSlayerSwordHTD",
+          "BlackMetalGreatSwordHTD",
+          "BlackMetalGreatSwordAltHTD",
+          "ObsidianGreatSwordHTD",
+          "ObsidianGreatSwordRedHTD",
+          "FlametalGreatSwordHTD"
+        ]
+      },
+      {
+        "Type": "Axes",
+        "Fallback": "Club",
+        "Items": [
+          "CoreAxeHTD",
+          "CoreAxeGreenHTD",
+          "CoreAxeBlueHTD",
+          "BronzeCrowbillHTD"
+        ]
+      },
+      {
+        "Type": "TwoHandAxes",
+        "Fallback": "AxeIron",
+        "Items": [
+          "BronzeBattleaxeHTD",
+          "SilverBattleaxeHTD",
+          "BlackMetalBattleaxeHTD",
+          "CoreGreatAxeHTD",
+          "CoreGreatAxeGreenHTD",
+          "CoreGreatAxeBlueHTD"
+        ]
+      },
+      {
+        "Type": "Clubs",
+        "Fallback": "",
+        "Items": [
+          "DeerFistsHTD",
+          "BronzeFistsHTD",
+          "IronFistsHTD",
+          "SilverFistsHTD",
+          "CoreMaceHTD",
+          "CoreMaceGreenHTD",
+          "CoreMaceBlueHTD"
+        ]
+      },
+      {
+        "Type": "Sledges",
+        "Fallback": "AxeFlint",
+        "Items": [
+          "BoneGreatMaceHTD",
+          "BronzeHammerHTD",
+          "CoreGreatMaceHTD",
+          "CoreGreatMaceGreenHTD",
+          "CoreGreatMaceBlueHTD",
+          "SilverGreatMaceHTD"
+        ]
+      },
+      {
+        "Type": "ChestArmor",
+        "Fallback": "",
+        "Items": [
+          "ArmorChestBoarHTD"
+        ]
+      },
+      {
+        "Type": "LegsArmor",
+        "Fallback": "",
+        "Items": [
+          "ArmorLegsBoarHTD"
+        ]
+      },
+      {
+        "Type": "HeadArmor",
+        "Fallback": "ArmorRagsChest",
+        "Items": [
+          "ArmorHelmetBoarHTD"
+        ]
+      },
+      {
+        "Type": "ShouldersArmor",
+        "Fallback": "ArmorRagsLegs",
+        "Items": [
+          "ArmorShoulderBoarHTD"
+        ]
+      }
+    ]
+  }

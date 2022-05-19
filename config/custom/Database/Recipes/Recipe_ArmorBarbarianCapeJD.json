@@ -1,0 +1,14 @@
+{
+    "name": "ArmorBarbarianCapeJD",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeerHide:8:4:True",
+        "Bronze:1:1:True",
+        "BoneFragments:5:3:True"
+    ]
+}

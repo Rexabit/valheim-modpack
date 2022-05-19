@@ -1,0 +1,14 @@
+{
+    "name": "ArmorMistlandsLegs",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:20:5:True",
+        "LoxPelt:10:5:True",
+        "LinenThread:10:3:True"
+    ]
+}

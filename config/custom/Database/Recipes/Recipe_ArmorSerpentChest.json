@@ -1,0 +1,15 @@
+{
+    "name": "ArmorSerpentChest",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BlackMetal:15:5:True",
+        "Silver:10:3:True",
+        "LoxPelt:5:2:True",
+        "SerpentScale:5:2:True"
+    ]
+}

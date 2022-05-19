@@ -1,0 +1,4 @@
+PrintComment: Wackys Database updated.
+CopyFolder:
+- From: config/custom/Database/
+  To: plugins/WackyMole-WackysDatabase/wackysDatabase/

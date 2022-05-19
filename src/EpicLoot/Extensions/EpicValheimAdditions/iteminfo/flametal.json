@@ -1,0 +1,95 @@
+{
+    "ItemInfo": [
+        {
+            "Type": "Swords",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "SwordFlametal"
+            ]
+        },
+        {
+            "Type": "TwoHandSwords",
+            "Fallback": "AxeIron",
+            "Items": [
+                "GreatSwordFlametal"
+            ]
+        },
+        {
+            "Type": "Axes",
+            "Fallback": "Club",
+            "Items": [
+                "AxeFlametal"
+            ]
+        },
+        {
+            "Type": "TwoHandAxes",
+            "Fallback": "AxeIron",
+            "Items": [
+                "BattleaxeFlametal"
+            ]
+        },
+        {
+            "Type": "Knives",
+            "Fallback": "Club",
+            "Items": [
+                "KnifeFlametal"
+            ]
+        },
+        {
+            "Type": "Clubs",
+            "Fallback": "Club",
+            "Items": [
+                "MaceFlametal"
+            ]
+        },
+        {
+            "Type": "Sledges",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "SledgeFlametal"
+            ]
+        },
+        {
+            "Type": "Polearms",
+            "Fallback": "SpearBronze",
+            "Items": [
+                "AtgeirFlametal"
+            ]
+        },
+        {
+            "Type": "Spears",
+            "Fallback": "Club",
+            "Items": [
+                "SpearFlametal"
+            ]
+        },
+        {
+            "Type": "Pickaxes",
+            "Fallback": "AxeFlint",
+            "Items": [
+                "PickaxeFlametal"
+            ]
+        },
+        {
+            "Type": "Bows",
+            "Fallback": "Club",
+            "Items": [
+                "BowFlametal"
+            ]
+        },
+        {
+            "Type": "RoundShields",
+            "Fallback": "Club",
+            "Items": [
+                "ShieldFlametal"
+            ]
+        },
+        {
+            "Type": "TowerShields",
+            "Fallback": "Club",
+            "Items": [
+                "ShieldFlametalTower"
+            ]
+        }
+    ]
+}

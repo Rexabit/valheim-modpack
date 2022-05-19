@@ -1,0 +1,14 @@
+{
+    "name": "ArmorDragonslayerChest",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Silver:20:5:True",
+        "WolfPelt:10:3:True",
+        "Obsidian:10:3:True"
+    ]
+}

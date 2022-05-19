@@ -1,0 +1,14 @@
+{
+    "name": "ArmorBlackmetalgarbHelmet",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BlackMetal:15:5:True",
+        "LoxPelt:10:5:True",
+        "LinenThread:20:5:True"
+    ]
+}
