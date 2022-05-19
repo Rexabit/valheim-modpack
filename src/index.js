@@ -152,8 +152,6 @@ GetGroups("lib/extensions").then(async (groups) => {
       Assign(object, root, rules);
     }
 
-    //console.log(JSON.stringify(root));
-
     fs.mkdirSync(path.dirname(groups[v].write), { recursive: true});
 
     await fs.promises.writeFile(groups[v].write, JSON.stringify(root), {

@@ -40,3 +40,16 @@ A collection of mods aimed to add a bit of difficulty, horizontal progression, a
     * MonsterLabZ
 ### V0.3.0
 * Added initial configurations for new regions
+### V0.4.0
+* Added modular build options for Epic Loot mod compatiblity, see github.
+* CLLC - Disabled Creature Sectors
+* Removed Cooking skill from Boneappetit
+* Mod Removals (Bloat)
+    * Player Trading
+    * Multi User Chest
+    * Vitality & Evasion - Removed as their purpose is fulfilled by the Cooking skill
+    * Tenacity - Fulfilled by Epic Loot
+    * StaminaRegenerationFromFood
+* Mod Additions
+    * Epic MMO System
+    * Better UI Reforged
