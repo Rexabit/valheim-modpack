@@ -106,7 +106,7 @@ function MergeArrays(array, root, key, rules, force) {
           for (let j = 0; j < root.length; j++) {
             if (root[j][rule.attribute] === item[rule.attribute]) {
               exists = true;
-              Assign(item, root[j], rule.attribute, rules, true);
+              Assign(item, root[j], rules, true);
             }
           } 
 
@@ -121,13 +121,13 @@ function MergeArrays(array, root, key, rules, force) {
   }
 }
 
-function Assign(object, root, key, rules, force) {
+function Assign(object, root, rules, force) {
   Object.keys(object).forEach((key) => {
     if (root[key]) {
       if (Array.isArray(root[key])) {
         MergeArrays(object[key], root[key], key, rules, force)
       } else if (typeof(root[key]) === 'object') {
-        Assign(object[key], root[key], key, rules);
+        Assign(object[key], root[key], rules);
       }
     }
   })
@@ -149,7 +149,7 @@ GetGroups("lib/extensions").then(async (groups) => {
         continue;
       }
 
-      Assign(object, root, "", rules);
+      Assign(object, root, rules);
     }
 
     //console.log(JSON.stringify(root));
