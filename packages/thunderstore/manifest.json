@@ -1,7 +1,7 @@
 {
   "name": "Rexabyte_Modpack",
   "version_number": "0.4.0",
-  "website_url": "https://github.com/Rexabit/rexabyte-mod-pack",
+  "website_url": "https://github.com/Rexabit/valheim-modpack",
   "description": "A mod pack focusing on increasing the amount of progression required to progress through each era while encouraging social encounters.",
   "dependencies": [
     "Advize-PlantEverything-1.11.2",
