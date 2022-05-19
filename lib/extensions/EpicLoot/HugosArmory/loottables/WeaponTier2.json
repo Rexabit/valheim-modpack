@@ -1,0 +1,13 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier2Weapons",
+      "Loot": [
+        { "Item": "BronzeFistsHTD", "Weight": 1, "Rarity": [66, 24, 7, 3] },
+        { "Item": "BronzeHammerHTD", "Weight": 1, "Rarity": [66, 24, 7, 3] },
+        { "Item": "BronzeBattleaxeHTD", "Weight": 1, "Rarity": [66, 24, 7, 3] },
+        { "Item": "BronzeGreatSwordHTD", "Weight": 1, "Rarity": [66, 24, 7, 3] }
+      ]
+    }
+  ]
+}

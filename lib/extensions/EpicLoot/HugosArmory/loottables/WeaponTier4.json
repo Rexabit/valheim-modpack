@@ -1,0 +1,14 @@
+
+{
+  "ItemSets": [
+    {
+      "Name": "Tier4Weapons",
+      "Loot": [
+        { "Item": "SilverGreatSwordHTD", "Weight": 1, "Rarity": [5, 25, 50, 20] },
+        { "Item": "SilverGreatMaceHTD", "Weight": 1, "Rarity": [5, 25, 50, 20] },
+        { "Item": "SilverBattleaxeHTD", "Weight": 1, "Rarity": [5, 25, 50, 20] },
+        { "Item": "SilverFistsHTD", "Weight": 1, "Rarity": [5, 25, 50, 20] }
+      ]
+    }
+  ]
+}

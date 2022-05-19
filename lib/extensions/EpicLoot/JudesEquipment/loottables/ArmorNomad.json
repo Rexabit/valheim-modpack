@@ -1,0 +1,12 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier5Armor",
+      "Loot": [
+        { "Item": "ArmorBlackmetalgarbLegs", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "ArmorBlackmetalgarbChest", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "ArmorBlackmetalgarbHelmet", "Weight": 1, "Rarity": [0, 15, 60, 25] }
+      ]
+    } 
+  ]
+}

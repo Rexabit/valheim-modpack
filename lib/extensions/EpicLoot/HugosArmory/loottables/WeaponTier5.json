@@ -1,0 +1,12 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier5Weapons",
+      "Loot": [
+        { "Item": "BlackMetalGreatSwordHTD", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "BlackMetalGreatSwordAltHTD", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "BlackMetalBattleaxeHTD", "Weight": 1, "Rarity": [0, 15, 60, 25] }
+      ]
+    }
+  ]
+}

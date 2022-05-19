@@ -1,0 +1,4 @@
+{
+  "LootTables.*.Object": "Merge",
+  "ItemSets.*.Name": "Merge"
+}

@@ -1,0 +1,12 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier3Armor",
+      "Loot": [
+        { "Item": "ArmorRootChest", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "ArmorRootLegs", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "HelmetRoot", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] }
+      ]
+    }
+  ]
+}

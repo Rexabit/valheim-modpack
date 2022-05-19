@@ -1,0 +1,95 @@
+{
+  "ItemInfo": [
+    {
+      "Type": "Swords",
+      "Fallback": "AxeFlint",
+      "Items": [
+        "SwordFrometal"
+      ]
+    },
+    {
+      "Type": "TwoHandSwords",
+      "Fallback": "AxeIron",
+      "Items": [
+        "GreatSwordFrometal"
+      ]
+    },
+    {
+      "Type": "Axes",
+      "Fallback": "Club",
+      "Items": [
+        "AxeFrometal"
+      ]
+    },
+    {
+      "Type": "TwoHandAxes",
+      "Fallback": "AxeIron",
+      "Items": [
+        "BattleaxeFrometal"
+      ]
+    },
+    {
+      "Type": "Knives",
+      "Fallback": "Club",
+      "Items": [
+        "KnifeFrometal"
+      ]
+    },
+    {
+      "Type": "Clubs",
+      "Fallback": "Club",
+      "Items": [
+        "MaceFrometal"
+      ]
+    },
+    {
+      "Type": "Sledges",
+      "Fallback": "AxeFlint",
+      "Items": [
+        "SledgeFrometal"
+      ]
+    },
+    {
+      "Type": "Polearms",
+      "Fallback": "SpearBronze",
+      "Items": [
+        "AtgeirFrometal"
+      ]
+    },
+    {
+      "Type": "Spears",
+      "Fallback": "Club",
+      "Items": [
+        "SpearFrometal"
+      ]
+    },
+    {
+      "Type": "Pickaxes",
+      "Fallback": "AxeFlint",
+      "Items": [
+        "PickaxeFrometal"
+      ]
+    },
+    {
+      "Type": "Bows",
+      "Fallback": "Club",
+      "Items": [
+        "BowFrometal"
+      ]
+    },
+    {
+      "Type": "RoundShields",
+      "Fallback": "Club",
+      "Items": [
+        "ShieldFrometal"
+      ]
+    },
+    {
+      "Type": "TowerShields",
+      "Fallback": "Club",
+      "Items": [
+        "ShieldFrometalTower"
+      ]
+    }
+  ]
+}

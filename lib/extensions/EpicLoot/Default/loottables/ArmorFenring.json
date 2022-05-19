@@ -1,0 +1,12 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier4Armor",
+      "Loot": [
+        { "Item": "ArmorFenringLegs",  "Weight": 1, "Rarity": [5, 25, 50, 20] },
+        { "Item": "ArmorFenringChest", "Weight": 1, "Rarity": [5, 25, 50, 20] },
+        { "Item": "HelmetFenring",    "Weight": 1, "Rarity": [5, 25, 50, 20] }
+      ]
+    }
+  ]
+}

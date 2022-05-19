@@ -1,0 +1,57 @@
+{
+  "ItemInfo": [
+    {
+      "Type": "ChestArmor",
+      "Fallback": "",
+      "Items": [
+        "ArmorNobleChest",
+        "ArmorBarbarianBronzeChestJD",
+        "ArmorPlateIronChestJD",
+        "ArmorDragonslayerChest",
+        "ArmorWandererChest",
+        "ArmorBlackmetalgarbChest",
+        "ArmorSerpentChest",
+        "ArmorMistlandsChest"
+      ]
+    },
+    {
+      "Type": "LegsArmor",
+      "Fallback": "",
+      "Items": [
+        "ArmorNobleLegs",
+        "ArmorBarbarianBronzeLegsJD",
+        "ArmorPlateIronLegsJD",
+        "ArmorDragonslayerLegs",
+        "ArmorWandererLegs",
+        "ArmorBlackmetalgarbLegs",
+        "ArmorSerpentLegs",
+        "ArmorMistlandsLegs"
+      ]
+    },
+    {
+      "Type": "HeadArmor",
+      "Fallback": "ArmorRagsChest",
+      "Items": [
+        "ArmorNobleHelmet",
+        "ArmorBarbarianBronzeHelmetJD",
+        "ArmorPlateIronHelmetJD",
+        "ArmorDragonslayerHelmet",
+        "ArmorWandererHelmet",
+        "ArmorBlackmetalgarbHelmet",
+        "ArmorSerpentHelmet",
+        "ArmorMistlandsHelmet"
+      ]
+    },
+    {
+      "Type": "ShouldersArmor",
+      "Fallback": "ArmorRagsLegs",
+      "Items": [
+        "ArmorNobleCape",
+        "ArmorBarbarianCapeJD",
+        "ArmorPlateCape",
+        "ArmorWandererCape",
+        "ArmorSerpentCape"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier6Armor",
+      "Loot": [
+        { "Item": "ArmorScorchedHelmet",  "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorScorchedChest", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorScorchedLegs", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    } 
+  ]
+}

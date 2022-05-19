@@ -1,0 +1,13 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier3Armor",
+      "Loot": [
+        { "Item": "ArmorPlateIronHelmetJD",  "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorPlateIronChestJD", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorPlateIronLegsJD", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorPlateCape", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    } 
+  ]
+}

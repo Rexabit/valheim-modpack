@@ -1,0 +1,13 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier5Armor",
+      "Loot": [
+        { "Item": "ArmorSerpentLegs", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "ArmorSerpentChest", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "ArmorSerpentHelmet", "Weight": 1, "Rarity": [0, 15, 60, 25] },
+        { "Item": "ArmorSerpentCape", "Weight": 1, "Rarity": [0, 15, 60, 25] }
+      ]
+    }
+  ]
+}

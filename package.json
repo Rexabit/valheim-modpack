@@ -1,0 +1,12 @@
+{
+  "name": "rexabyte-mod-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "call build_thunderstore.bat && call build_nexus.bat"
+  },
+  "author": "Rexabyte",
+  "license": "ISC",
+  "dependencies": {}
+}

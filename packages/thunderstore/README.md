@@ -38,3 +38,5 @@ A collection of mods aimed to add a bit of difficulty, horizontal progression, a
     * Drop That
     * Custom Raids
     * MonsterLabZ
+### V0.3.0
+* Added initial configurations for new regions

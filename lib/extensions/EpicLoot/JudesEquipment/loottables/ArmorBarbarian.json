@@ -1,0 +1,13 @@
+{
+  "ItemSets": [
+    {
+      "Name": "Tier2Armor",
+      "Loot": [
+        { "Item": "ArmorBarbarianBronzeHelmetJD", "Rarity": [ 66, 24, 7, 3 ] },
+        { "Item": "ArmorBarbarianBronzeChestJD",  "Rarity": [ 66, 24, 7, 3 ] },
+        { "Item": "ArmorBarbarianBronzeLegsJD",   "Rarity": [ 66, 24, 7, 3 ] },
+        { "Item": "ArmorBarbarianCapeJD",   "Rarity": [ 66, 24, 7, 3 ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+
+{
+  "ItemSets": [
+    {
+      "Name": "Tier3Weapons",
+      "Loot": [
+        { "Item": "CoreMaceHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreMaceGreenHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreMaceBlueHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+
+        { "Item": "CoreGreatAxeHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreGreatAxeGreenHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreGreatAxeBlueHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+
+        { "Item": "CoreGreatMaceHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreGreatMaceGreenHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "CoreGreatMaceBlueHTD", "Weight": 1, "Rarity": [ 38, 50, 8, 4 ] },
+
+        { "Item": "IronGreatSwordHTD", "Weight": 3, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "IronHeavyGreatSwordHTD", "Weight": 3, "Rarity": [ 38, 50, 8, 4 ] },
+        { "Item": "IronFistsHTD", "Weight": 3, "Rarity": [ 38, 50, 8, 4 ] } 
+      ]
+    }
+  ]
+}
