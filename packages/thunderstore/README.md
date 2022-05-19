@@ -57,6 +57,6 @@ A collection of mods aimed to add a bit of difficulty, horizontal progression, a
     * Better UI Reforged
 * Mod Updates
     * Marketplace & Server NPCs
-    * Ressurection
+    * Resurrection
     * Professions
     * MonsterLabZ
