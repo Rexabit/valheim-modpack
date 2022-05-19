@@ -1,8 +1,2 @@
 {
-  "LootTables": [
-    {
-      "Object": "Greyling",
-      "RefObject": "Tier0Mob"
-    }
-  ]
 }
