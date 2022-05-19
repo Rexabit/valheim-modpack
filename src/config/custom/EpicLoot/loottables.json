@@ -89,7 +89,6 @@
         { "Item": "GoldRubyRing" }
       ]
     },
-
     {
       "Name": "Tier0Weapons",
       "Loot": [
@@ -113,13 +112,13 @@
       ]
     },
     {
-        "Name": "Tier0Noble",
-        "Loot": [
-          { "Item": "ArmorNobleHelmet",  "Rarity": [ 97, 2, 1, 0 ] },
-          { "Item": "ArmorNobleChest", "Rarity": [ 97, 2, 1, 0 ] },
-          { "Item": "ArmorNobleLegs", "Rarity": [ 97, 2, 1, 0 ] },
-          { "Item": "ArmorNobleCape", "Rarity": [ 97, 2, 1, 0 ] }
-        ]
+      "Name": "Tier0Noble",
+      "Loot": [
+        { "Item": "ArmorNobleHelmet",  "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorNobleChest", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorNobleLegs", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorNobleCape", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
       },
     {
       "Name": "Tier0Shields",

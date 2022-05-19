@@ -1,0 +1,13 @@
+{
+  "ItemSets": [
+    {
+      "Name": "ArmorWanderer",
+      "Loot": [
+        { "Item": "ArmorWandererHelmet",  "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorWandererChest", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorWandererLegs", "Rarity": [ 97, 2, 1, 0 ] },
+        { "Item": "ArmorWandererCape", "Rarity": [ 97, 2, 1, 0 ] }
+      ]
+    } 
+  ]
+}
